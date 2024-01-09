@@ -3,7 +3,7 @@
 ## SMART values
 sch: https://www.google.com/search?q=hpsa+driver+smart+disk+health
 
-Guide:  
+### Guide:
 https://phuoctaihuynh.wordpress.com/2017/12/08/hp-server-disk-health-check/
 
 >To look at disks behind HP Smart Array controllers, use syntax such as:
